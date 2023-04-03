@@ -6,6 +6,7 @@ Frontend:
   - Pinia
   - TypeScript
   - Ant Disign
+  - json-server (пока не написан бекенд)
  
 Backend:
   - Express
